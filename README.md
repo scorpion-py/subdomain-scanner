@@ -26,6 +26,7 @@ Projeyi klonlayın veya dosyaları indirin.
 Gerekli bağımlılıkları yüklemek için şu komutu kullanın:
 
 pip install -r requirements.txt
+
 Subfinder'ı yükleyin (eğer daha önce yüklemediyseniz).
 Kullanım
 
